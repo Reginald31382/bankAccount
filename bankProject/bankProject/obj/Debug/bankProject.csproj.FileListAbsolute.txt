@@ -1,0 +1,7 @@
+D:\cSharp\bankProject\bankProject\bin\Debug\bankProject.exe.config
+D:\cSharp\bankProject\bankProject\bin\Debug\bankProject.exe
+D:\cSharp\bankProject\bankProject\bin\Debug\bankProject.pdb
+D:\cSharp\bankProject\bankProject\obj\Debug\bankProject.csproj.AssemblyReference.cache
+D:\cSharp\bankProject\bankProject\obj\Debug\bankProject.csproj.CoreCompileInputs.cache
+D:\cSharp\bankProject\bankProject\obj\Debug\bankProject.exe
+D:\cSharp\bankProject\bankProject\obj\Debug\bankProject.pdb
